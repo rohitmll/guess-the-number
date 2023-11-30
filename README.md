@@ -1,3 +1,3 @@
 # JavaScript Number Guessing Game Project
 
-A JavaScript game where players must guess a randomly generated number.
+Simple and fun number game where you have to guess number b/w given min and max.
